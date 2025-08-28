@@ -17,7 +17,7 @@ The system recommends movies similar to a selected title and also displays their
 - **Pickle** → Save and load preprocessed models
 - **Dataset** → Movies dataset with poster URLs (from Kaggle)
 
-## Contributing
+## Contributions
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
@@ -26,7 +26,7 @@ to discuss what you would like to change.
 MIT License  
 
 ## Acknowledgements
-The Movie Database (TMDb)
-Kaggle Datasets
-Streamlit community
+-The Movie Database (TMDb)
+-Kaggle Datasets
+-Streamlit community
 
