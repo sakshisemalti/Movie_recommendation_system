@@ -1,5 +1,6 @@
-# Virtual environment
+# Virtual environments
 .venv/
+anaconda_projects/
 
 # Python cache
 __pycache__/
@@ -13,3 +14,4 @@ __pycache__/
 
 # Other
 *.pkl
+
