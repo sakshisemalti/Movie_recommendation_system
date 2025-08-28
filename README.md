@@ -26,7 +26,7 @@ to discuss what you would like to change.
 MIT License  
 
 ## Acknowledgements
--The Movie Database (TMDb)
--Kaggle Datasets
--Streamlit community
+- The Movie Database (TMDb)
+- Kaggle Datasets
+- Streamlit community
 
