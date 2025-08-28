@@ -1,0 +1,9 @@
+# Ignore virtual environments
+.venv/
+anaconda_projects/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
